@@ -1,0 +1,6 @@
+{
+  "name": "APKify Builder",
+  "description": "Convert Codebases (ZIP, React Native, Flutter) to Android APK files incrementally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
